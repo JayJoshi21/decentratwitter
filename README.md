@@ -25,7 +25,7 @@ $ npm install
 ```
 $ cd decentratwitter
 $ npx hardhat node
-```
+
 
 ### 4. Connect development blockchain accounts to Metamask
 - Copy private key of the addresses and import to Metamask
